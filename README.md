@@ -3,6 +3,8 @@
 ## Overview
 This project is a simple login user interface built using PyQt5. It serves as an educational tool for understanding PyQt5's GUI components and styling through Qt Designer. The application features a clean layout with user-friendly elements for entering a username and password.
 
+![Alt_text](output.png)
+
 ## Features
 - A modern and responsive login form.
 - Username and password input fields.
